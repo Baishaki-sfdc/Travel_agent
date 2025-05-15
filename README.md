@@ -25,14 +25,6 @@ Travel tips & estimated budget
 
 🧩 Beautiful and responsive UI with custom Streamlit styling
 
-
-baishaki-sfdc-travel_agent/
-├── README.md                 ← Project documentation (you are here)
-├── main.py                   ← Main Streamlit app logic
-├── requirements.txt          ← Python dependencies
-└── .devcontainer/
-    └── devcontainer.json     ← DevContainer setup for VS Code & GitHub Codespaces
-
     
 🛠️ Setup & Installation
 
